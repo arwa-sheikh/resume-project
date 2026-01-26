@@ -2,7 +2,7 @@
 
 A practical Python project that analyzes resumes and matches them against job descriptions using machine learning.
 
-This project is beginner-friendly, resume-worthy, and scalable to GenAI.
+This project is beginner-friendly, resume-worthy, and scalable to Generative AI.
 
 ---
 
